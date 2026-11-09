@@ -750,10 +750,10 @@ img {
         display: none;
         flex-direction: column;
         position: absolute;
-        top: 60px;
+        top: 100%;
         left: 0;
         width: 100%;
-        background: #222;
+        background: #111c33;
         padding: 20px;
         gap: 20px;
         z-index: 1000;
